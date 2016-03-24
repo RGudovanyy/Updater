@@ -1,0 +1,6 @@
+###Remote Files
+/home/anvi/files_remote/one5
+/home/anvi/files_remote/four.bat
+/home/anvi/files_remote/atom-amd64.zip
+/home/anvi/files_remote/five
+
